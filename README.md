@@ -7,7 +7,7 @@ It is recommended [use the shell script](https://github.com/fastnodecc/fns-insta
 
 All binaries for different operating systems, you can download in the releases repository:
 
-https://github.com/fastnodecc/fastnode/releases
+https://github.com/Fast-Node/FNS_core/releases
 
 P2P port: 47352, RPC port: 47353
 -
