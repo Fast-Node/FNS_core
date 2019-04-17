@@ -1,0 +1,36 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/fastnode_bg.qm</file>
+        <file alias="ca">locale/fastnode_ca.qm</file>
+        <file alias="cs">locale/fastnode_cs.qm</file>
+        <file alias="da">locale/fastnode_da.qm</file>
+        <file alias="de">locale/fastnode_de.qm</file>
+        <file alias="en">locale/fastnode_en.qm</file>
+        <file alias="en_US">locale/fastnode_en_US.qm</file>
+        <file alias="eo">locale/fastnode_eo.qm</file>
+        <file alias="es">locale/fastnode_es.qm</file>
+        <file alias="es_ES">locale/fastnode_es_ES.qm</file>
+        <file alias="fi">locale/fastnode_fi.qm</file>
+        <file alias="fr_FR">locale/fastnode_fr_FR.qm</file>
+        <file alias="hi_IN">locale/fastnode_hi_IN.qm</file>
+        <file alias="hr">locale/fastnode_hr.qm</file>
+        <file alias="hr_HR">locale/fastnode_hr_HR.qm</file>
+        <file alias="it">locale/fastnode_it.qm</file>
+        <file alias="ja">locale/fastnode_ja.qm</file>
+        <file alias="ko_KR">locale/fastnode_ko_KR.qm</file>
+        <file alias="lt_LT">locale/fastnode_lt_LT.qm</file>
+        <file alias="nl">locale/fastnode_nl.qm</file>
+        <file alias="pl">locale/fastnode_pl.qm</file>
+        <file alias="pt">locale/fastnode_pt.qm</file>
+        <file alias="pt_BR">locale/fastnode_pt_BR.qm</file>
+        <file alias="ro_RO">locale/fastnode_ro_RO.qm</file>
+        <file alias="ru">locale/fastnode_ru.qm</file>
+        <file alias="sk">locale/fastnode_sk.qm</file>
+        <file alias="sv">locale/fastnode_sv.qm</file>
+        <file alias="tr">locale/fastnode_tr.qm</file>
+        <file alias="uk">locale/fastnode_uk.qm</file>
+        <file alias="vi">locale/fastnode_vi.qm</file>
+        <file alias="zh_CN">locale/fastnode_zh_CN.qm</file>
+        <file alias="zh_TW">locale/fastnode_zh_TW.qm</file>
+    </qresource>
+</RCC>
